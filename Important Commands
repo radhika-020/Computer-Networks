@@ -1,0 +1,6 @@
+Note - All these commands should be run on cmd running as an administrator.
+a) hostname - gives us the hostname of the machine used.
+b) ipconfig - gives us the IP Configuration(Logical address) of the system over the Internet
+c) ipconfig/all - gives us the MAC Address(Physical address) of our system that is being associated with the NIC(Network Interface Card)
+d) netsat -a - gives us all the ports being used on the system
+e) nslookup "domain_name" - gives us the IP address of the specific domain entered, for eg: www.google.com.
